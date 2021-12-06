@@ -1,0 +1,11 @@
+#sign{
+    stroke-dasharray: 4185.81494140625;
+    stroke-dashoffset: 4185.81494140625;
+    animation: anime 2s linear infinite;
+
+}
+@keyframes anime {
+    to{
+        stroke-dashoffset: 0;
+    }
+}
